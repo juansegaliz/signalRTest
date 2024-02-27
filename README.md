@@ -11,4 +11,4 @@ This project uses:
 
 ## Live test
 
-[You can test it by clicking here](https://signalrtest.juansegaliz.com/index.html)
+[You can test it by clicking here](http://signalrtest.juansegaliz.com/index.html)
