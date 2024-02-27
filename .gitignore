@@ -1,0 +1,25 @@
+# .NET
+*.obj
+*.pdb
+*.user
+*.vscode
+*.vs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+
+# Visual Studio cache files
+# files ending in .cache are ignored by default
+# but build directories named "cache" are not
+# so we need to ignore them explicitly
+[Dd]ebugCache/
+[Rr]eleaseCache/
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
